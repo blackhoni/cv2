@@ -3,38 +3,8 @@ body {
 }
 
 
-img:hover{
-background-color:gold;
-}
 
 h1 {
   color: steelblue;
-  font-size: 100px;
 }
 
-p {
-  color: steelblue;
-}
-/*
-img{background-color: steelblue; }
-*/
-
-.bacon{
-background-color: forestgreen;
-}
-
-.broccoli{
-  background-color: steelblue;
-}
-
-.fun{
-  color:forestgreen;
-}
-
-.lot{
-  color: steelblue;
-}
-
-.hi{
-  color: forestgreen;
-}
